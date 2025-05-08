@@ -1,0 +1,58 @@
+.container{
+    display: flex;
+    color: #fdedea;
+}
+
+.sidebar{
+    width: 30%;
+    background-color: #fccdcd;
+    padding: 20px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+
+.main{
+    width: 70%;
+    padding: 20px;
+}
+p, ul{
+    color: black;
+    margin-bottom: 50px;
+}
+
+li{
+    color: black;
+}
+
+
+h1, h2, h3, h4, h5, p, li{
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1, h2, h3, h4, h5{
+    color: #832e2e;
+    margin: 5;
+}
+
+h1, h2, h3{
+    font-weight: 700;
+}
+
+h3{
+    margin-top: 50;
+}
+img{
+    border-radius: 50%;
+}
+
+i{
+    margin-right: 10px;
+    color: #832e2e;
+}
+
+a {
+    color: #832e2e;
+  }
